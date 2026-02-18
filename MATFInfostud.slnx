@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Oglasi/">
+    <Project Path="MATFInfostud.Oglasi.API/MATFInfostud.Oglasi.API.csproj" />
+    <Project Path="MATFInfostud.Oglasi.Application/MATFInfostud.Oglasi.Application.csproj" />
+    <Project Path="MATFInfostud.Oglasi.Domain/MATFInfostud.Oglasi.Domain.csproj" Id="797bfbfc-23ca-4de6-b31e-ce03eca68e23" />
+    <Project Path="MATFInfostud.Oglasi.Infrastructure/MATFInfostud.Oglasi.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="MATFInfostud.Shared.Domain/MATFInfostud.Shared.Domain.csproj" />
+  </Folder>
+</Solution>

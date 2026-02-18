@@ -1,0 +1,15 @@
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\bin\Debug\net8.0\MATFInfostud.Oglasi.Domain.deps.json
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\bin\Debug\net8.0\MATFInfostud.Oglasi.Domain.dll
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\bin\Debug\net8.0\MATFInfostud.Oglasi.Domain.pdb
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\bin\Debug\net8.0\MATFInfostud.Shared.Domain.dll
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\bin\Debug\net8.0\MATFInfostud.Shared.Domain.pdb
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\MATFInfostud.Oglasi.Domain.csproj.AssemblyReference.cache
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\MATFInfostud.Oglasi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\MATFInfostud.Oglasi.Domain.AssemblyInfoInputs.cache
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\MATFInfostud.Oglasi.Domain.AssemblyInfo.cs
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\MATFInfostud.Oglasi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\MATFInfo.DCA5FEB4.Up2Date
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\MATFInfostud.Oglasi.Domain.dll
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\refint\MATFInfostud.Oglasi.Domain.dll
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\MATFInfostud.Oglasi.Domain.pdb
+C:\Users\jelena.mitrovic\Desktop\MATFInfostud\MATFInfostud.Oglasi.Domain\obj\Debug\net8.0\ref\MATFInfostud.Oglasi.Domain.dll
